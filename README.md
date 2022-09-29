@@ -1,4 +1,18 @@
 ### Hi there 👋
+You can find me on:
+- [Twitter](https://twitter.com/pzalejko)
+- [LinkedIn](https://www.linkedin.com/in/pzalejko/)
+
+----
+
+⚡ Ocasional speaker:
+- [(2022) Change Data Capture (Java, Debezium, Kafka, Kafka Streams)](https://github.com/p-zalejko/change-data-capture-example)
+- [(2021) Service discovery intro](https://github.com/p-zalejko/service-discovery-intro)
+- [(2021) Consumer-Driven Contract with Pact](https://github.com/p-zalejko/consumer-driver-contact-with-pact)
+- [(2019) State of Java: Java 8 vs Java 11, OpenJDK, Java LTS, JVM: Hotspot, OpenJ9, GraalVM](https://github.com/p-zalejko/jug-presentation-future-of-java)
+- [(2015) What's New in Java 8](https://github.com/p-zalejko/jug_java8)
+- [(2015) Introduction to the Eclipse Modeling Framework (EMF)](https://github.com/p-zalejko/jug_emf)
+- (2014) Code review with Gerrit
 
 <!--
 **p-zalejko/p-zalejko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
