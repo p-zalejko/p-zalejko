@@ -5,7 +5,7 @@ You can find me on:
 
 ----
 
-⚡ Ocasional speaker:
+⚡ Occasional speaker:
 - [(2022) Change Data Capture (Java, Debezium, Kafka, Kafka Streams)](https://github.com/p-zalejko/change-data-capture-example)
 - [(2021) Service discovery intro](https://github.com/p-zalejko/service-discovery-intro)
 - [(2021) Consumer-Driven Contract with Pact](https://github.com/p-zalejko/consumer-driver-contact-with-pact)
