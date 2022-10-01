@@ -6,7 +6,7 @@ You can find me on:
 ----
 
 ⚡ Occasional speaker:
-- [(2022) Change Data Capture (Java, Debezium, Kafka, Kafka Streams)](https://github.com/p-zalejko/change-data-capture-example)
+- [(2022) Change Data Capture (Java, Spring Framework, Debezium, Kafka, Kafka Streams)](https://github.com/p-zalejko/change-data-capture-example)
 - [(2021) Service discovery intro](https://github.com/p-zalejko/service-discovery-intro)
 - [(2021) Consumer-Driven Contract with Pact](https://github.com/p-zalejko/consumer-driver-contact-with-pact)
 - [(2019) State of Java: Java 8 vs Java 11, OpenJDK, Java LTS, JVM: Hotspot, OpenJ9, GraalVM](https://github.com/p-zalejko/jug-presentation-future-of-java)
