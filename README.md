@@ -6,6 +6,7 @@ You can find me on:
 ----
 
 ⚡ Occasional speaker:
+- [(2023) SQL - the silent hero](https://github.com/p-zalejko/sql-the-silent-hero)
 - [(2022) Change Data Capture (Java, Spring Framework, Debezium, Kafka, Kafka Streams)](https://github.com/p-zalejko/change-data-capture-example)
 - [(2021) Service discovery intro](https://github.com/p-zalejko/service-discovery-intro)
 - [(2021) Consumer-Driven Contract with Pact](https://github.com/p-zalejko/consumer-driver-contact-with-pact)
