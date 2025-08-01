@@ -14,7 +14,7 @@ You can find me on:
 - [(2019) State of Java: Java 8 vs Java 11, OpenJDK, Java LTS, JVM: Hotspot, OpenJ9, GraalVM](https://github.com/p-zalejko/jug-presentation-future-of-java)
 - [(2015) What's New in Java 8](https://github.com/p-zalejko/jug_java8)
 - [(2015) Introduction to the Eclipse Modeling Framework (EMF)](https://github.com/p-zalejko/jug_emf)
-- (2014) Code review with Gerrit
+- [(2014) Code review with Gerrit](https://zielona-gora-jug.github.io/files/Gerrit.pdf)
 
 <!--
 **p-zalejko/p-zalejko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
