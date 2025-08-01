@@ -1,7 +1,7 @@
 ### Hi there 👋
 You can find me on:
-- [Twitter](https://twitter.com/pzalejko)
 - [LinkedIn](https://www.linkedin.com/in/pzalejko/)
+- [Twitter](https://twitter.com/pzalejko)
 - [Bluesky](https://bsky.app/profile/pzalejko.bsky.social)
 
 ----
